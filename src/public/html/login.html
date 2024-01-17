@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="./css/login.css">
+    <title>AtikDB</title>
+</head>
+<body>
+	<div class="login-container">
+		<form class="login-form" action="/login" method="POST">
+			<h1>Atık Yönetim Sistemi</h1>
+			
+			<label>Kullanıcı Adı</label>
+			<input type ="text" id = 'username' name="username" placeholder="kullanıcı adı" required>
+
+			<label>Şifre</label>
+			<input type="password" id = "password" name="password" placeholder="şifre" required>
+
+			<button type ="reset">Temizle</button>
+			<button type ="submit">Giriş Yap</button>
+		</form>
+	</div>
+</body>
+</html>

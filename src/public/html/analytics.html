@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AtikDB</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.css" />
+    <link rel="stylesheet" href="./css/analytics.css">
+</head>
+<body>
+    <p id="userLabel"></p>
+
+    <a href="/">Ana Menüye Dön</a>
+
+    <div class="total-container">
+      <div class="chart-container">
+        <canvas id="wasteTypeChart"></canvas>
+      </div>
+      <div class="chart-container">
+        <canvas id="fullnessChart"></canvas>
+      </div>
+    </div>
+
+    <div class="input-container">
+      <label for="IDInput">Numara Giriniz:</label>
+      <input type="text" id="IDInput" placeholder="Örnek: 1">
+      <button id="IDButton" onclick="getByID()">Verileri Al</button>
+
+      <label for="addressInput">Adres Giriniz:</label>
+      <input type="text" id="addressInput" placeholder="Örnek: Marmara Bölgesi">
+      <button onclick="getByAddress()">Verileri Al</button>
+    </div>
+
+    <div class="container">
+      <h2>Atık Kutuları</h2>
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Numara</th>
+            <th>Enlem</th>
+            <th>Boylam</th>
+            <th>Adres</th>
+            <th>Evsel</th>
+            <th>Plastik</th>
+            <th>Cam</th>
+            <th>Kağıt</th>
+            <th>Metal</th>
+          </tr>
+        </thead>
+        <tbody id="listBody">
+          
+        </tbody>
+      </table>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.js"></script>
+    <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="./js/analytics.js"></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AtikDB</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.css" />
+    <link rel="stylesheet" href="./css/old.css">
+</head>
+<body>
+    <p id="userLabel"></p>
+
+    <a href="/">Ana Menüye Dön</a>
+
+    <div class="input-container">
+      <label for="startDate">Başlangıç Tarihi:</label>
+      <input type="date" id="startDate" name="startDate">
+
+      <label for="endDate">Bitiş Tarihi:</label>
+      <input type="date" id="endDate" name="endDate">
+
+      <label for="IDInput">Numara Giriniz:</label>
+      <input type="text" id="IDInput" placeholder="Örnek: 1">
+
+      <button onclick="getByID()">Verileri Al</button>
+    </div>
+
+    <div class="chart-container">
+      <canvas id="volumeChart"></canvas>  
+    </div>
+    <div class="chart-container">
+      <canvas id="fullnessChart"></canvas>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.js"></script>
+    <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <script src="./js/old.js"></script>
+</body>
+</html>

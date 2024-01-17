@@ -1,0 +1,59 @@
+#wasteTypeChart {
+    height: 500x;
+}
+
+#fullnessChart {
+    height: 500x;
+}
+
+.input-container {
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    outline: none;
+    width: 300px;
+}
+
+input:focus {
+    border-color: #2ecc71;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #2ecc71;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #27ae60;
+}
+
+.total-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.chart-container {
+    display: inline-block;
+    margin-right: 20px; 
+}
+
+p {
+    font-family: "";
+    margin-top: 16px;
+    display: inline;
+}
+
+#IDButton {
+    margin-right: 10px;
+}

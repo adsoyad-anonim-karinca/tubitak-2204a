@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AtikDB</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.css" />
+    <link rel="stylesheet" href="./css/route.css">
+</head>
+<body>
+    <p id="userLabel"></p>
+    
+    <div id="routeDiv">
+        <label for="selection">Bir seçenek seçin:</label>
+        <select class="selection" id="selection1" name="selection1">
+            <option value="ai">Yapay Zeka</option>
+            <option value="ortools">OR-Tools</option>
+        </select>
+        <select class="selection" id="selection2" name="selection2">
+            <option value="0">Plastik</option>
+            <option value="1">Evsel</option>
+            <option value="2">Cam</option>
+            <option value="3">Kağıt</option>
+            <option value="4">Metal</option>
+        </select>
+        <Input class="selection" id="selection3" name="selection3" placeholder="Doluluk Yüzdesi" oninput="updatePercentInput(this.value)">
+
+        <label for="selection">Araç seçenekleri:</label>
+        <input class="selection" id="selection4" name="selection4" placeholder="Araç Sayısı">
+        <input class="selection" id="selection5" name="selection5" placeholder="Araç Kapasitesi", oninput="updateMetricInput(this.value)">
+        <button onclick="getRoute()">Rotaları Oluştur</button>
+        <button onclick="clearRoutes()" id="clearButton">Rotaları Temizle</button>
+
+        <a href="/">Ana Menüye Dön</a>
+    </div>
+
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.js"></script>
+    <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="./js/route.js"></script>
+</body>
+</html>

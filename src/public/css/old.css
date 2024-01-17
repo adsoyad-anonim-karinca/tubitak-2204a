@@ -1,0 +1,40 @@
+.input-container {
+    margin-top: 10px;
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    outline: none;
+    width: 300px;
+}
+
+input:focus {
+    border-color: #2ecc71;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #2ecc71;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #27ae60;
+}
+
+.chart-container {
+    text-align: center;
+    max-height: 90vh;
+}
+
+p {
+    display: inline;
+}

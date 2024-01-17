@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Sayfa</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            text-align: center;
+            padding: 50px;
+            margin: 0;
+        }
+
+        #container {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        .button {
+            display: block;
+            box-sizing: border-box;
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            background-color: #3498db;
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            overflow: hidden;
+        }
+
+        .button:hover {
+            background-color: #2980b9;
+        }
+
+        #logout {
+            background-color: #f44336;
+        }
+
+        #logout:hover {
+            background-color: #f52e1f;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <h1>Atık Yönetim Sistemi</h1>
+        <a class="button" href="/route">Rota Oluştur</a>
+        <a class="button" href="/new">Atık Tahmini Al</a>
+        <a class="button" href="/analytics">Verileri Sorgula</a>
+        <a class="button" href="/old">Eski Verileri Sorgula</a>
+        <a id="logout" class="button" href="/logout">Çıkış Yap</a>
+    </div>
+</body>
+
+</html>
