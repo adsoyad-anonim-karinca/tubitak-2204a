@@ -1,0 +1,5544 @@
+[{
+  "_id": {
+    "$oid": "65a40cfe62b825f0da31cb25"
+  },
+  "id": 1,
+  "lat": 40.823161,
+  "lng": 29.388881,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "İnönü Mahallesi, Çayırova, Kocaeli, Marmara Bölgesi, 00041, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 46
+    },
+    {
+      "name": "Evsel",
+      "volume": 18
+    },
+    {
+      "name": "Cam",
+      "volume": 87
+    },
+    {
+      "name": "Kağıt",
+      "volume": 30
+    },
+    {
+      "name": "Metal",
+      "volume": 40
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:06.271Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 24
+        },
+        {
+          "name": "Evsel",
+          "volume": 59
+        },
+        {
+          "name": "Cam",
+          "volume": 87
+        },
+        {
+          "name": "Kağıt",
+          "volume": 49
+        },
+        {
+          "name": "Metal",
+          "volume": 100
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:06.271Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 43
+        },
+        {
+          "name": "Evsel",
+          "volume": 85
+        },
+        {
+          "name": "Cam",
+          "volume": 62
+        },
+        {
+          "name": "Kağıt",
+          "volume": 67
+        },
+        {
+          "name": "Metal",
+          "volume": 11
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:06.271Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 14
+        },
+        {
+          "name": "Evsel",
+          "volume": 59
+        },
+        {
+          "name": "Cam",
+          "volume": 70
+        },
+        {
+          "name": "Kağıt",
+          "volume": 51
+        },
+        {
+          "name": "Metal",
+          "volume": 25
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:06.271Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 43
+        },
+        {
+          "name": "Evsel",
+          "volume": 69
+        },
+        {
+          "name": "Cam",
+          "volume": 56
+        },
+        {
+          "name": "Kağıt",
+          "volume": 85
+        },
+        {
+          "name": "Metal",
+          "volume": 99
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:06.271Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 62
+        },
+        {
+          "name": "Evsel",
+          "volume": 36
+        },
+        {
+          "name": "Cam",
+          "volume": 70
+        },
+        {
+          "name": "Kağıt",
+          "volume": 96
+        },
+        {
+          "name": "Metal",
+          "volume": 53
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:06.271Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 53
+        },
+        {
+          "name": "Evsel",
+          "volume": 47
+        },
+        {
+          "name": "Cam",
+          "volume": 13
+        },
+        {
+          "name": "Kağıt",
+          "volume": 35
+        },
+        {
+          "name": "Metal",
+          "volume": 17
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:06.271Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 22
+        },
+        {
+          "name": "Evsel",
+          "volume": 50
+        },
+        {
+          "name": "Cam",
+          "volume": 60
+        },
+        {
+          "name": "Kağıt",
+          "volume": 10
+        },
+        {
+          "name": "Metal",
+          "volume": 91
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:06.271Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 13
+        },
+        {
+          "name": "Evsel",
+          "volume": 41
+        },
+        {
+          "name": "Cam",
+          "volume": 22
+        },
+        {
+          "name": "Kağıt",
+          "volume": 28
+        },
+        {
+          "name": "Metal",
+          "volume": 15
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:06.271Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 41
+        },
+        {
+          "name": "Evsel",
+          "volume": 45
+        },
+        {
+          "name": "Cam",
+          "volume": 42
+        },
+        {
+          "name": "Kağıt",
+          "volume": 35
+        },
+        {
+          "name": "Metal",
+          "volume": 17
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:06.271Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 19
+        },
+        {
+          "name": "Evsel",
+          "volume": 76
+        },
+        {
+          "name": "Cam",
+          "volume": 70
+        },
+        {
+          "name": "Kağıt",
+          "volume": 33
+        },
+        {
+          "name": "Metal",
+          "volume": 44
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:06.271Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40cfe62b825f0da31cb26"
+  },
+  "id": 2,
+  "lat": 40.799228,
+  "lng": 29.373999,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Mithatpaşa Caddesi, Emek Mahallesi, Darıca, Kocaeli, Marmara Bölgesi, 41420, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 81
+    },
+    {
+      "name": "Evsel",
+      "volume": 39
+    },
+    {
+      "name": "Cam",
+      "volume": 53
+    },
+    {
+      "name": "Kağıt",
+      "volume": 11
+    },
+    {
+      "name": "Metal",
+      "volume": 16
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:06.831Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 73
+        },
+        {
+          "name": "Evsel",
+          "volume": 33
+        },
+        {
+          "name": "Cam",
+          "volume": 95
+        },
+        {
+          "name": "Kağıt",
+          "volume": 65
+        },
+        {
+          "name": "Metal",
+          "volume": 53
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:06.831Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 51
+        },
+        {
+          "name": "Evsel",
+          "volume": 71
+        },
+        {
+          "name": "Cam",
+          "volume": 79
+        },
+        {
+          "name": "Kağıt",
+          "volume": 99
+        },
+        {
+          "name": "Metal",
+          "volume": 37
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:06.831Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 79
+        },
+        {
+          "name": "Evsel",
+          "volume": 35
+        },
+        {
+          "name": "Cam",
+          "volume": 31
+        },
+        {
+          "name": "Kağıt",
+          "volume": 49
+        },
+        {
+          "name": "Metal",
+          "volume": 47
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:06.831Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 17
+        },
+        {
+          "name": "Evsel",
+          "volume": 11
+        },
+        {
+          "name": "Cam",
+          "volume": 64
+        },
+        {
+          "name": "Kağıt",
+          "volume": 23
+        },
+        {
+          "name": "Metal",
+          "volume": 84
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:06.831Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 71
+        },
+        {
+          "name": "Evsel",
+          "volume": 55
+        },
+        {
+          "name": "Cam",
+          "volume": 26
+        },
+        {
+          "name": "Kağıt",
+          "volume": 95
+        },
+        {
+          "name": "Metal",
+          "volume": 67
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:06.831Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 69
+        },
+        {
+          "name": "Evsel",
+          "volume": 76
+        },
+        {
+          "name": "Cam",
+          "volume": 83
+        },
+        {
+          "name": "Kağıt",
+          "volume": 31
+        },
+        {
+          "name": "Metal",
+          "volume": 43
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:06.831Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 57
+        },
+        {
+          "name": "Evsel",
+          "volume": 10
+        },
+        {
+          "name": "Cam",
+          "volume": 11
+        },
+        {
+          "name": "Kağıt",
+          "volume": 16
+        },
+        {
+          "name": "Metal",
+          "volume": 44
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:06.831Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 29
+        },
+        {
+          "name": "Evsel",
+          "volume": 41
+        },
+        {
+          "name": "Cam",
+          "volume": 79
+        },
+        {
+          "name": "Kağıt",
+          "volume": 67
+        },
+        {
+          "name": "Metal",
+          "volume": 34
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:06.831Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 79
+        },
+        {
+          "name": "Evsel",
+          "volume": 21
+        },
+        {
+          "name": "Cam",
+          "volume": 15
+        },
+        {
+          "name": "Kağıt",
+          "volume": 33
+        },
+        {
+          "name": "Metal",
+          "volume": 56
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:06.831Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 94
+        },
+        {
+          "name": "Evsel",
+          "volume": 82
+        },
+        {
+          "name": "Cam",
+          "volume": 80
+        },
+        {
+          "name": "Kağıt",
+          "volume": 58
+        },
+        {
+          "name": "Metal",
+          "volume": 48
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:06.831Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40cff62b825f0da31cb27"
+  },
+  "id": 3,
+  "lat": 40.807797,
+  "lng": 29.362642,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Gebze Teknik Üniversitesi, İstanbul, TEM - D100 Bağlantı Yolu, Cumhuriyet Mahallesi, Çayırova, Kocaeli, Marmara Bölgesi, 41400, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 38
+    },
+    {
+      "name": "Evsel",
+      "volume": 95
+    },
+    {
+      "name": "Cam",
+      "volume": 85
+    },
+    {
+      "name": "Kağıt",
+      "volume": 10
+    },
+    {
+      "name": "Metal",
+      "volume": 24
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:07.317Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 79
+        },
+        {
+          "name": "Evsel",
+          "volume": 96
+        },
+        {
+          "name": "Cam",
+          "volume": 96
+        },
+        {
+          "name": "Kağıt",
+          "volume": 97
+        },
+        {
+          "name": "Metal",
+          "volume": 44
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:07.317Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 71
+        },
+        {
+          "name": "Evsel",
+          "volume": 64
+        },
+        {
+          "name": "Cam",
+          "volume": 58
+        },
+        {
+          "name": "Kağıt",
+          "volume": 35
+        },
+        {
+          "name": "Metal",
+          "volume": 76
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:07.317Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 10
+        },
+        {
+          "name": "Evsel",
+          "volume": 33
+        },
+        {
+          "name": "Cam",
+          "volume": 34
+        },
+        {
+          "name": "Kağıt",
+          "volume": 58
+        },
+        {
+          "name": "Metal",
+          "volume": 75
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:07.317Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 15
+        },
+        {
+          "name": "Evsel",
+          "volume": 47
+        },
+        {
+          "name": "Cam",
+          "volume": 88
+        },
+        {
+          "name": "Kağıt",
+          "volume": 100
+        },
+        {
+          "name": "Metal",
+          "volume": 50
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:07.317Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 99
+        },
+        {
+          "name": "Evsel",
+          "volume": 42
+        },
+        {
+          "name": "Cam",
+          "volume": 52
+        },
+        {
+          "name": "Kağıt",
+          "volume": 45
+        },
+        {
+          "name": "Metal",
+          "volume": 18
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:07.317Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 75
+        },
+        {
+          "name": "Evsel",
+          "volume": 44
+        },
+        {
+          "name": "Cam",
+          "volume": 11
+        },
+        {
+          "name": "Kağıt",
+          "volume": 24
+        },
+        {
+          "name": "Metal",
+          "volume": 65
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:07.317Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 26
+        },
+        {
+          "name": "Evsel",
+          "volume": 72
+        },
+        {
+          "name": "Cam",
+          "volume": 86
+        },
+        {
+          "name": "Kağıt",
+          "volume": 37
+        },
+        {
+          "name": "Metal",
+          "volume": 46
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:07.317Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 87
+        },
+        {
+          "name": "Evsel",
+          "volume": 30
+        },
+        {
+          "name": "Cam",
+          "volume": 70
+        },
+        {
+          "name": "Kağıt",
+          "volume": 90
+        },
+        {
+          "name": "Metal",
+          "volume": 58
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:07.317Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 84
+        },
+        {
+          "name": "Evsel",
+          "volume": 12
+        },
+        {
+          "name": "Cam",
+          "volume": 22
+        },
+        {
+          "name": "Kağıt",
+          "volume": 95
+        },
+        {
+          "name": "Metal",
+          "volume": 50
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:07.317Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 57
+        },
+        {
+          "name": "Evsel",
+          "volume": 44
+        },
+        {
+          "name": "Cam",
+          "volume": 71
+        },
+        {
+          "name": "Kağıt",
+          "volume": 69
+        },
+        {
+          "name": "Metal",
+          "volume": 63
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:07.317Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40cff62b825f0da31cb28"
+  },
+  "id": 4,
+  "lat": 40.778045,
+  "lng": 29.361708,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Piri Reis Mahallesi, Darıca, Kocaeli, Marmara Bölgesi, 41700, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 84
+    },
+    {
+      "name": "Evsel",
+      "volume": 49
+    },
+    {
+      "name": "Cam",
+      "volume": 100
+    },
+    {
+      "name": "Kağıt",
+      "volume": 65
+    },
+    {
+      "name": "Metal",
+      "volume": 94
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:07.861Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 94
+        },
+        {
+          "name": "Evsel",
+          "volume": 12
+        },
+        {
+          "name": "Cam",
+          "volume": 72
+        },
+        {
+          "name": "Kağıt",
+          "volume": 13
+        },
+        {
+          "name": "Metal",
+          "volume": 38
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:07.861Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 31
+        },
+        {
+          "name": "Evsel",
+          "volume": 92
+        },
+        {
+          "name": "Cam",
+          "volume": 22
+        },
+        {
+          "name": "Kağıt",
+          "volume": 91
+        },
+        {
+          "name": "Metal",
+          "volume": 98
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:07.861Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 70
+        },
+        {
+          "name": "Evsel",
+          "volume": 51
+        },
+        {
+          "name": "Cam",
+          "volume": 44
+        },
+        {
+          "name": "Kağıt",
+          "volume": 51
+        },
+        {
+          "name": "Metal",
+          "volume": 73
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:07.861Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 61
+        },
+        {
+          "name": "Evsel",
+          "volume": 76
+        },
+        {
+          "name": "Cam",
+          "volume": 74
+        },
+        {
+          "name": "Kağıt",
+          "volume": 99
+        },
+        {
+          "name": "Metal",
+          "volume": 71
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:07.861Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 22
+        },
+        {
+          "name": "Evsel",
+          "volume": 36
+        },
+        {
+          "name": "Cam",
+          "volume": 83
+        },
+        {
+          "name": "Kağıt",
+          "volume": 56
+        },
+        {
+          "name": "Metal",
+          "volume": 20
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:07.861Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 11
+        },
+        {
+          "name": "Evsel",
+          "volume": 57
+        },
+        {
+          "name": "Cam",
+          "volume": 48
+        },
+        {
+          "name": "Kağıt",
+          "volume": 72
+        },
+        {
+          "name": "Metal",
+          "volume": 76
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:07.861Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 93
+        },
+        {
+          "name": "Evsel",
+          "volume": 11
+        },
+        {
+          "name": "Cam",
+          "volume": 86
+        },
+        {
+          "name": "Kağıt",
+          "volume": 48
+        },
+        {
+          "name": "Metal",
+          "volume": 40
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:07.861Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 56
+        },
+        {
+          "name": "Evsel",
+          "volume": 16
+        },
+        {
+          "name": "Cam",
+          "volume": 95
+        },
+        {
+          "name": "Kağıt",
+          "volume": 19
+        },
+        {
+          "name": "Metal",
+          "volume": 17
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:07.861Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 36
+        },
+        {
+          "name": "Evsel",
+          "volume": 20
+        },
+        {
+          "name": "Cam",
+          "volume": 50
+        },
+        {
+          "name": "Kağıt",
+          "volume": 60
+        },
+        {
+          "name": "Metal",
+          "volume": 29
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:07.861Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 24
+        },
+        {
+          "name": "Evsel",
+          "volume": 17
+        },
+        {
+          "name": "Cam",
+          "volume": 10
+        },
+        {
+          "name": "Kağıt",
+          "volume": 98
+        },
+        {
+          "name": "Metal",
+          "volume": 11
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:07.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0062b825f0da31cb29"
+  },
+  "id": 5,
+  "lat": 40.794292,
+  "lng": 29.378092,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Aşıroğlu Caddesi, Emek Mahallesi, Beylikbağı Mahallesi, Darıca, Kocaeli, Marmara Bölgesi, 00041, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 21
+    },
+    {
+      "name": "Evsel",
+      "volume": 65
+    },
+    {
+      "name": "Cam",
+      "volume": 75
+    },
+    {
+      "name": "Kağıt",
+      "volume": 12
+    },
+    {
+      "name": "Metal",
+      "volume": 56
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:08.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 86
+        },
+        {
+          "name": "Evsel",
+          "volume": 13
+        },
+        {
+          "name": "Cam",
+          "volume": 15
+        },
+        {
+          "name": "Kağıt",
+          "volume": 81
+        },
+        {
+          "name": "Metal",
+          "volume": 24
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:08.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 51
+        },
+        {
+          "name": "Evsel",
+          "volume": 63
+        },
+        {
+          "name": "Cam",
+          "volume": 60
+        },
+        {
+          "name": "Kağıt",
+          "volume": 53
+        },
+        {
+          "name": "Metal",
+          "volume": 75
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:08.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 37
+        },
+        {
+          "name": "Evsel",
+          "volume": 95
+        },
+        {
+          "name": "Cam",
+          "volume": 59
+        },
+        {
+          "name": "Kağıt",
+          "volume": 66
+        },
+        {
+          "name": "Metal",
+          "volume": 11
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:08.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 86
+        },
+        {
+          "name": "Evsel",
+          "volume": 84
+        },
+        {
+          "name": "Cam",
+          "volume": 48
+        },
+        {
+          "name": "Kağıt",
+          "volume": 72
+        },
+        {
+          "name": "Metal",
+          "volume": 66
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:08.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 42
+        },
+        {
+          "name": "Evsel",
+          "volume": 30
+        },
+        {
+          "name": "Cam",
+          "volume": 39
+        },
+        {
+          "name": "Kağıt",
+          "volume": 48
+        },
+        {
+          "name": "Metal",
+          "volume": 50
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:08.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 88
+        },
+        {
+          "name": "Evsel",
+          "volume": 93
+        },
+        {
+          "name": "Cam",
+          "volume": 68
+        },
+        {
+          "name": "Kağıt",
+          "volume": 78
+        },
+        {
+          "name": "Metal",
+          "volume": 81
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:08.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 96
+        },
+        {
+          "name": "Evsel",
+          "volume": 81
+        },
+        {
+          "name": "Cam",
+          "volume": 92
+        },
+        {
+          "name": "Kağıt",
+          "volume": 11
+        },
+        {
+          "name": "Metal",
+          "volume": 95
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:08.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 89
+        },
+        {
+          "name": "Evsel",
+          "volume": 38
+        },
+        {
+          "name": "Cam",
+          "volume": 89
+        },
+        {
+          "name": "Kağıt",
+          "volume": 98
+        },
+        {
+          "name": "Metal",
+          "volume": 97
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:08.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 38
+        },
+        {
+          "name": "Evsel",
+          "volume": 22
+        },
+        {
+          "name": "Cam",
+          "volume": 48
+        },
+        {
+          "name": "Kağıt",
+          "volume": 26
+        },
+        {
+          "name": "Metal",
+          "volume": 90
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:08.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 68
+        },
+        {
+          "name": "Evsel",
+          "volume": 51
+        },
+        {
+          "name": "Cam",
+          "volume": 75
+        },
+        {
+          "name": "Kağıt",
+          "volume": 53
+        },
+        {
+          "name": "Metal",
+          "volume": 65
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:08.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0062b825f0da31cb2a"
+  },
+  "id": 6,
+  "lat": 40.832756,
+  "lng": 29.444607,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "İnönü, Güzeller Mahallesi, Gebze, Kocaeli, Marmara Bölgesi, 41435, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 61
+    },
+    {
+      "name": "Evsel",
+      "volume": 51
+    },
+    {
+      "name": "Cam",
+      "volume": 58
+    },
+    {
+      "name": "Kağıt",
+      "volume": 82
+    },
+    {
+      "name": "Metal",
+      "volume": 54
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:08.821Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 100
+        },
+        {
+          "name": "Evsel",
+          "volume": 79
+        },
+        {
+          "name": "Cam",
+          "volume": 81
+        },
+        {
+          "name": "Kağıt",
+          "volume": 50
+        },
+        {
+          "name": "Metal",
+          "volume": 52
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:08.821Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 28
+        },
+        {
+          "name": "Evsel",
+          "volume": 53
+        },
+        {
+          "name": "Cam",
+          "volume": 76
+        },
+        {
+          "name": "Kağıt",
+          "volume": 61
+        },
+        {
+          "name": "Metal",
+          "volume": 55
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:08.821Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 21
+        },
+        {
+          "name": "Evsel",
+          "volume": 20
+        },
+        {
+          "name": "Cam",
+          "volume": 33
+        },
+        {
+          "name": "Kağıt",
+          "volume": 10
+        },
+        {
+          "name": "Metal",
+          "volume": 58
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:08.821Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 72
+        },
+        {
+          "name": "Evsel",
+          "volume": 86
+        },
+        {
+          "name": "Cam",
+          "volume": 68
+        },
+        {
+          "name": "Kağıt",
+          "volume": 71
+        },
+        {
+          "name": "Metal",
+          "volume": 72
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:08.821Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 85
+        },
+        {
+          "name": "Evsel",
+          "volume": 12
+        },
+        {
+          "name": "Cam",
+          "volume": 33
+        },
+        {
+          "name": "Kağıt",
+          "volume": 30
+        },
+        {
+          "name": "Metal",
+          "volume": 77
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:08.821Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 93
+        },
+        {
+          "name": "Evsel",
+          "volume": 25
+        },
+        {
+          "name": "Cam",
+          "volume": 19
+        },
+        {
+          "name": "Kağıt",
+          "volume": 42
+        },
+        {
+          "name": "Metal",
+          "volume": 52
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:08.821Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 66
+        },
+        {
+          "name": "Evsel",
+          "volume": 54
+        },
+        {
+          "name": "Cam",
+          "volume": 39
+        },
+        {
+          "name": "Kağıt",
+          "volume": 50
+        },
+        {
+          "name": "Metal",
+          "volume": 69
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:08.821Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 16
+        },
+        {
+          "name": "Evsel",
+          "volume": 62
+        },
+        {
+          "name": "Cam",
+          "volume": 48
+        },
+        {
+          "name": "Kağıt",
+          "volume": 15
+        },
+        {
+          "name": "Metal",
+          "volume": 40
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:08.821Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 99
+        },
+        {
+          "name": "Evsel",
+          "volume": 67
+        },
+        {
+          "name": "Cam",
+          "volume": 34
+        },
+        {
+          "name": "Kağıt",
+          "volume": 82
+        },
+        {
+          "name": "Metal",
+          "volume": 20
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:08.821Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 61
+        },
+        {
+          "name": "Evsel",
+          "volume": 53
+        },
+        {
+          "name": "Cam",
+          "volume": 70
+        },
+        {
+          "name": "Kağıt",
+          "volume": 48
+        },
+        {
+          "name": "Metal",
+          "volume": 47
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:08.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0162b825f0da31cb2b"
+  },
+  "id": 7,
+  "lat": 40.796697,
+  "lng": 29.403692,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Köşklü Çeşme, Köşklü Çeşme Mahallesi, Gebze, Kocaeli, Marmara Bölgesi, 41400, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 89
+    },
+    {
+      "name": "Evsel",
+      "volume": 36
+    },
+    {
+      "name": "Cam",
+      "volume": 39
+    },
+    {
+      "name": "Kağıt",
+      "volume": 24
+    },
+    {
+      "name": "Metal",
+      "volume": 37
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:09.340Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 11
+        },
+        {
+          "name": "Evsel",
+          "volume": 30
+        },
+        {
+          "name": "Cam",
+          "volume": 50
+        },
+        {
+          "name": "Kağıt",
+          "volume": 15
+        },
+        {
+          "name": "Metal",
+          "volume": 20
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:09.340Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 95
+        },
+        {
+          "name": "Evsel",
+          "volume": 65
+        },
+        {
+          "name": "Cam",
+          "volume": 66
+        },
+        {
+          "name": "Kağıt",
+          "volume": 63
+        },
+        {
+          "name": "Metal",
+          "volume": 82
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:09.340Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 42
+        },
+        {
+          "name": "Evsel",
+          "volume": 58
+        },
+        {
+          "name": "Cam",
+          "volume": 26
+        },
+        {
+          "name": "Kağıt",
+          "volume": 34
+        },
+        {
+          "name": "Metal",
+          "volume": 65
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:09.340Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 13
+        },
+        {
+          "name": "Evsel",
+          "volume": 90
+        },
+        {
+          "name": "Cam",
+          "volume": 90
+        },
+        {
+          "name": "Kağıt",
+          "volume": 74
+        },
+        {
+          "name": "Metal",
+          "volume": 69
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:09.340Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 73
+        },
+        {
+          "name": "Evsel",
+          "volume": 16
+        },
+        {
+          "name": "Cam",
+          "volume": 43
+        },
+        {
+          "name": "Kağıt",
+          "volume": 54
+        },
+        {
+          "name": "Metal",
+          "volume": 55
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:09.340Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 51
+        },
+        {
+          "name": "Evsel",
+          "volume": 78
+        },
+        {
+          "name": "Cam",
+          "volume": 60
+        },
+        {
+          "name": "Kağıt",
+          "volume": 68
+        },
+        {
+          "name": "Metal",
+          "volume": 77
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:09.340Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 96
+        },
+        {
+          "name": "Evsel",
+          "volume": 21
+        },
+        {
+          "name": "Cam",
+          "volume": 26
+        },
+        {
+          "name": "Kağıt",
+          "volume": 27
+        },
+        {
+          "name": "Metal",
+          "volume": 83
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:09.340Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 18
+        },
+        {
+          "name": "Evsel",
+          "volume": 35
+        },
+        {
+          "name": "Cam",
+          "volume": 36
+        },
+        {
+          "name": "Kağıt",
+          "volume": 89
+        },
+        {
+          "name": "Metal",
+          "volume": 71
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:09.340Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 62
+        },
+        {
+          "name": "Evsel",
+          "volume": 15
+        },
+        {
+          "name": "Cam",
+          "volume": 97
+        },
+        {
+          "name": "Kağıt",
+          "volume": 92
+        },
+        {
+          "name": "Metal",
+          "volume": 65
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:09.340Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 98
+        },
+        {
+          "name": "Evsel",
+          "volume": 97
+        },
+        {
+          "name": "Cam",
+          "volume": 15
+        },
+        {
+          "name": "Kağıt",
+          "volume": 27
+        },
+        {
+          "name": "Metal",
+          "volume": 41
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:09.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0162b825f0da31cb2c"
+  },
+  "id": 8,
+  "lat": 40.825245,
+  "lng": 29.405118,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Akse Mahallesi, Çayırova, Kocaeli, Marmara Bölgesi, 41435, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 40
+    },
+    {
+      "name": "Evsel",
+      "volume": 85
+    },
+    {
+      "name": "Cam",
+      "volume": 20
+    },
+    {
+      "name": "Kağıt",
+      "volume": 22
+    },
+    {
+      "name": "Metal",
+      "volume": 36
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:09.827Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 94
+        },
+        {
+          "name": "Evsel",
+          "volume": 86
+        },
+        {
+          "name": "Cam",
+          "volume": 78
+        },
+        {
+          "name": "Kağıt",
+          "volume": 27
+        },
+        {
+          "name": "Metal",
+          "volume": 38
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:09.827Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 71
+        },
+        {
+          "name": "Evsel",
+          "volume": 87
+        },
+        {
+          "name": "Cam",
+          "volume": 71
+        },
+        {
+          "name": "Kağıt",
+          "volume": 23
+        },
+        {
+          "name": "Metal",
+          "volume": 18
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:09.827Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 71
+        },
+        {
+          "name": "Evsel",
+          "volume": 35
+        },
+        {
+          "name": "Cam",
+          "volume": 87
+        },
+        {
+          "name": "Kağıt",
+          "volume": 24
+        },
+        {
+          "name": "Metal",
+          "volume": 60
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:09.827Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 48
+        },
+        {
+          "name": "Evsel",
+          "volume": 65
+        },
+        {
+          "name": "Cam",
+          "volume": 30
+        },
+        {
+          "name": "Kağıt",
+          "volume": 54
+        },
+        {
+          "name": "Metal",
+          "volume": 55
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:09.827Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 63
+        },
+        {
+          "name": "Evsel",
+          "volume": 57
+        },
+        {
+          "name": "Cam",
+          "volume": 68
+        },
+        {
+          "name": "Kağıt",
+          "volume": 87
+        },
+        {
+          "name": "Metal",
+          "volume": 82
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:09.827Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 54
+        },
+        {
+          "name": "Evsel",
+          "volume": 56
+        },
+        {
+          "name": "Cam",
+          "volume": 99
+        },
+        {
+          "name": "Kağıt",
+          "volume": 69
+        },
+        {
+          "name": "Metal",
+          "volume": 39
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:09.827Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 39
+        },
+        {
+          "name": "Evsel",
+          "volume": 23
+        },
+        {
+          "name": "Cam",
+          "volume": 59
+        },
+        {
+          "name": "Kağıt",
+          "volume": 82
+        },
+        {
+          "name": "Metal",
+          "volume": 48
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:09.827Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 75
+        },
+        {
+          "name": "Evsel",
+          "volume": 15
+        },
+        {
+          "name": "Cam",
+          "volume": 91
+        },
+        {
+          "name": "Kağıt",
+          "volume": 50
+        },
+        {
+          "name": "Metal",
+          "volume": 78
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:09.827Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 61
+        },
+        {
+          "name": "Evsel",
+          "volume": 37
+        },
+        {
+          "name": "Cam",
+          "volume": 81
+        },
+        {
+          "name": "Kağıt",
+          "volume": 98
+        },
+        {
+          "name": "Metal",
+          "volume": 77
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:09.827Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 58
+        },
+        {
+          "name": "Evsel",
+          "volume": 71
+        },
+        {
+          "name": "Cam",
+          "volume": 47
+        },
+        {
+          "name": "Kağıt",
+          "volume": 38
+        },
+        {
+          "name": "Metal",
+          "volume": 66
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:09.827Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0262b825f0da31cb2d"
+  },
+  "id": 9,
+  "lat": 40.829415,
+  "lng": 29.381176,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Özgürlük Mahallesi, Çayırova, Kocaeli, Marmara Bölgesi, 00041, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 75
+    },
+    {
+      "name": "Evsel",
+      "volume": 95
+    },
+    {
+      "name": "Cam",
+      "volume": 21
+    },
+    {
+      "name": "Kağıt",
+      "volume": 24
+    },
+    {
+      "name": "Metal",
+      "volume": 97
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:10.319Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 68
+        },
+        {
+          "name": "Evsel",
+          "volume": 16
+        },
+        {
+          "name": "Cam",
+          "volume": 14
+        },
+        {
+          "name": "Kağıt",
+          "volume": 61
+        },
+        {
+          "name": "Metal",
+          "volume": 93
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:10.319Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 13
+        },
+        {
+          "name": "Evsel",
+          "volume": 89
+        },
+        {
+          "name": "Cam",
+          "volume": 21
+        },
+        {
+          "name": "Kağıt",
+          "volume": 54
+        },
+        {
+          "name": "Metal",
+          "volume": 56
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:10.319Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 68
+        },
+        {
+          "name": "Evsel",
+          "volume": 38
+        },
+        {
+          "name": "Cam",
+          "volume": 35
+        },
+        {
+          "name": "Kağıt",
+          "volume": 80
+        },
+        {
+          "name": "Metal",
+          "volume": 86
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:10.319Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 23
+        },
+        {
+          "name": "Evsel",
+          "volume": 98
+        },
+        {
+          "name": "Cam",
+          "volume": 46
+        },
+        {
+          "name": "Kağıt",
+          "volume": 83
+        },
+        {
+          "name": "Metal",
+          "volume": 52
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:10.319Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 33
+        },
+        {
+          "name": "Evsel",
+          "volume": 12
+        },
+        {
+          "name": "Cam",
+          "volume": 73
+        },
+        {
+          "name": "Kağıt",
+          "volume": 84
+        },
+        {
+          "name": "Metal",
+          "volume": 13
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:10.319Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 67
+        },
+        {
+          "name": "Evsel",
+          "volume": 29
+        },
+        {
+          "name": "Cam",
+          "volume": 49
+        },
+        {
+          "name": "Kağıt",
+          "volume": 24
+        },
+        {
+          "name": "Metal",
+          "volume": 74
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:10.319Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 54
+        },
+        {
+          "name": "Evsel",
+          "volume": 79
+        },
+        {
+          "name": "Cam",
+          "volume": 72
+        },
+        {
+          "name": "Kağıt",
+          "volume": 87
+        },
+        {
+          "name": "Metal",
+          "volume": 94
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:10.319Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 74
+        },
+        {
+          "name": "Evsel",
+          "volume": 35
+        },
+        {
+          "name": "Cam",
+          "volume": 73
+        },
+        {
+          "name": "Kağıt",
+          "volume": 49
+        },
+        {
+          "name": "Metal",
+          "volume": 22
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:10.319Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 75
+        },
+        {
+          "name": "Evsel",
+          "volume": 65
+        },
+        {
+          "name": "Cam",
+          "volume": 81
+        },
+        {
+          "name": "Kağıt",
+          "volume": 13
+        },
+        {
+          "name": "Metal",
+          "volume": 52
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:10.319Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 35
+        },
+        {
+          "name": "Evsel",
+          "volume": 36
+        },
+        {
+          "name": "Cam",
+          "volume": 39
+        },
+        {
+          "name": "Kağıt",
+          "volume": 12
+        },
+        {
+          "name": "Metal",
+          "volume": 61
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:10.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0262b825f0da31cb2e"
+  },
+  "id": 10,
+  "lat": 40.830719,
+  "lng": 29.41285,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Veysel Karani Caddesi, Akse Mahallesi, Çayırova, Kocaeli, Marmara Bölgesi, 41435, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 83
+    },
+    {
+      "name": "Evsel",
+      "volume": 84
+    },
+    {
+      "name": "Cam",
+      "volume": 45
+    },
+    {
+      "name": "Kağıt",
+      "volume": 91
+    },
+    {
+      "name": "Metal",
+      "volume": 94
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:10.936Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 74
+        },
+        {
+          "name": "Evsel",
+          "volume": 28
+        },
+        {
+          "name": "Cam",
+          "volume": 36
+        },
+        {
+          "name": "Kağıt",
+          "volume": 65
+        },
+        {
+          "name": "Metal",
+          "volume": 43
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:10.936Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 58
+        },
+        {
+          "name": "Evsel",
+          "volume": 11
+        },
+        {
+          "name": "Cam",
+          "volume": 40
+        },
+        {
+          "name": "Kağıt",
+          "volume": 40
+        },
+        {
+          "name": "Metal",
+          "volume": 31
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:10.936Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 52
+        },
+        {
+          "name": "Evsel",
+          "volume": 26
+        },
+        {
+          "name": "Cam",
+          "volume": 41
+        },
+        {
+          "name": "Kağıt",
+          "volume": 17
+        },
+        {
+          "name": "Metal",
+          "volume": 63
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:10.936Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 87
+        },
+        {
+          "name": "Evsel",
+          "volume": 40
+        },
+        {
+          "name": "Cam",
+          "volume": 45
+        },
+        {
+          "name": "Kağıt",
+          "volume": 48
+        },
+        {
+          "name": "Metal",
+          "volume": 12
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:10.936Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 43
+        },
+        {
+          "name": "Evsel",
+          "volume": 97
+        },
+        {
+          "name": "Cam",
+          "volume": 26
+        },
+        {
+          "name": "Kağıt",
+          "volume": 52
+        },
+        {
+          "name": "Metal",
+          "volume": 36
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:10.936Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 95
+        },
+        {
+          "name": "Evsel",
+          "volume": 83
+        },
+        {
+          "name": "Cam",
+          "volume": 86
+        },
+        {
+          "name": "Kağıt",
+          "volume": 50
+        },
+        {
+          "name": "Metal",
+          "volume": 88
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:10.936Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 37
+        },
+        {
+          "name": "Evsel",
+          "volume": 69
+        },
+        {
+          "name": "Cam",
+          "volume": 40
+        },
+        {
+          "name": "Kağıt",
+          "volume": 80
+        },
+        {
+          "name": "Metal",
+          "volume": 33
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:10.936Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 84
+        },
+        {
+          "name": "Evsel",
+          "volume": 10
+        },
+        {
+          "name": "Cam",
+          "volume": 44
+        },
+        {
+          "name": "Kağıt",
+          "volume": 13
+        },
+        {
+          "name": "Metal",
+          "volume": 63
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:10.936Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 32
+        },
+        {
+          "name": "Evsel",
+          "volume": 72
+        },
+        {
+          "name": "Cam",
+          "volume": 55
+        },
+        {
+          "name": "Kağıt",
+          "volume": 25
+        },
+        {
+          "name": "Metal",
+          "volume": 55
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:10.936Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 39
+        },
+        {
+          "name": "Evsel",
+          "volume": 71
+        },
+        {
+          "name": "Cam",
+          "volume": 26
+        },
+        {
+          "name": "Kağıt",
+          "volume": 88
+        },
+        {
+          "name": "Metal",
+          "volume": 56
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:10.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0362b825f0da31cb2f"
+  },
+  "id": 11,
+  "lat": 40.827114,
+  "lng": 29.440708,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Şekerpınar - Gebze Yolu, İnönü, Güzeller Mahallesi, Gebze, Kocaeli, Marmara Bölgesi, 41435, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 39
+    },
+    {
+      "name": "Evsel",
+      "volume": 72
+    },
+    {
+      "name": "Cam",
+      "volume": 98
+    },
+    {
+      "name": "Kağıt",
+      "volume": 66
+    },
+    {
+      "name": "Metal",
+      "volume": 89
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:11.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 41
+        },
+        {
+          "name": "Evsel",
+          "volume": 12
+        },
+        {
+          "name": "Cam",
+          "volume": 72
+        },
+        {
+          "name": "Kağıt",
+          "volume": 84
+        },
+        {
+          "name": "Metal",
+          "volume": 79
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:11.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 57
+        },
+        {
+          "name": "Evsel",
+          "volume": 69
+        },
+        {
+          "name": "Cam",
+          "volume": 74
+        },
+        {
+          "name": "Kağıt",
+          "volume": 49
+        },
+        {
+          "name": "Metal",
+          "volume": 95
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:11.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 72
+        },
+        {
+          "name": "Evsel",
+          "volume": 59
+        },
+        {
+          "name": "Cam",
+          "volume": 13
+        },
+        {
+          "name": "Kağıt",
+          "volume": 86
+        },
+        {
+          "name": "Metal",
+          "volume": 48
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:11.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 36
+        },
+        {
+          "name": "Evsel",
+          "volume": 49
+        },
+        {
+          "name": "Cam",
+          "volume": 52
+        },
+        {
+          "name": "Kağıt",
+          "volume": 72
+        },
+        {
+          "name": "Metal",
+          "volume": 80
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:11.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 63
+        },
+        {
+          "name": "Evsel",
+          "volume": 47
+        },
+        {
+          "name": "Cam",
+          "volume": 41
+        },
+        {
+          "name": "Kağıt",
+          "volume": 86
+        },
+        {
+          "name": "Metal",
+          "volume": 54
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:11.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 83
+        },
+        {
+          "name": "Evsel",
+          "volume": 27
+        },
+        {
+          "name": "Cam",
+          "volume": 61
+        },
+        {
+          "name": "Kağıt",
+          "volume": 36
+        },
+        {
+          "name": "Metal",
+          "volume": 24
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:11.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 88
+        },
+        {
+          "name": "Evsel",
+          "volume": 47
+        },
+        {
+          "name": "Cam",
+          "volume": 61
+        },
+        {
+          "name": "Kağıt",
+          "volume": 17
+        },
+        {
+          "name": "Metal",
+          "volume": 89
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:11.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 57
+        },
+        {
+          "name": "Evsel",
+          "volume": 33
+        },
+        {
+          "name": "Cam",
+          "volume": 99
+        },
+        {
+          "name": "Kağıt",
+          "volume": 91
+        },
+        {
+          "name": "Metal",
+          "volume": 59
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:11.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 54
+        },
+        {
+          "name": "Evsel",
+          "volume": 10
+        },
+        {
+          "name": "Cam",
+          "volume": 42
+        },
+        {
+          "name": "Kağıt",
+          "volume": 11
+        },
+        {
+          "name": "Metal",
+          "volume": 34
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:11.322Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 66
+        },
+        {
+          "name": "Evsel",
+          "volume": 37
+        },
+        {
+          "name": "Cam",
+          "volume": 83
+        },
+        {
+          "name": "Kağıt",
+          "volume": 24
+        },
+        {
+          "name": "Metal",
+          "volume": 42
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:11.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0362b825f0da31cb30"
+  },
+  "id": 12,
+  "lat": 40.822921,
+  "lng": 29.447456,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Gençlik Caddesi, İnönü, Güzeller Mahallesi, Gebze, Kocaeli, Marmara Bölgesi, 41400, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 15
+    },
+    {
+      "name": "Evsel",
+      "volume": 95
+    },
+    {
+      "name": "Cam",
+      "volume": 43
+    },
+    {
+      "name": "Kağıt",
+      "volume": 71
+    },
+    {
+      "name": "Metal",
+      "volume": 64
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:11.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 55
+        },
+        {
+          "name": "Evsel",
+          "volume": 69
+        },
+        {
+          "name": "Cam",
+          "volume": 43
+        },
+        {
+          "name": "Kağıt",
+          "volume": 66
+        },
+        {
+          "name": "Metal",
+          "volume": 18
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:11.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 53
+        },
+        {
+          "name": "Evsel",
+          "volume": 39
+        },
+        {
+          "name": "Cam",
+          "volume": 85
+        },
+        {
+          "name": "Kağıt",
+          "volume": 70
+        },
+        {
+          "name": "Metal",
+          "volume": 19
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:11.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 37
+        },
+        {
+          "name": "Evsel",
+          "volume": 77
+        },
+        {
+          "name": "Cam",
+          "volume": 74
+        },
+        {
+          "name": "Kağıt",
+          "volume": 69
+        },
+        {
+          "name": "Metal",
+          "volume": 46
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:11.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 34
+        },
+        {
+          "name": "Evsel",
+          "volume": 95
+        },
+        {
+          "name": "Cam",
+          "volume": 65
+        },
+        {
+          "name": "Kağıt",
+          "volume": 79
+        },
+        {
+          "name": "Metal",
+          "volume": 76
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:11.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 18
+        },
+        {
+          "name": "Evsel",
+          "volume": 19
+        },
+        {
+          "name": "Cam",
+          "volume": 40
+        },
+        {
+          "name": "Kağıt",
+          "volume": 76
+        },
+        {
+          "name": "Metal",
+          "volume": 88
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:11.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 87
+        },
+        {
+          "name": "Evsel",
+          "volume": 73
+        },
+        {
+          "name": "Cam",
+          "volume": 12
+        },
+        {
+          "name": "Kağıt",
+          "volume": 15
+        },
+        {
+          "name": "Metal",
+          "volume": 54
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:11.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 60
+        },
+        {
+          "name": "Evsel",
+          "volume": 14
+        },
+        {
+          "name": "Cam",
+          "volume": 78
+        },
+        {
+          "name": "Kağıt",
+          "volume": 76
+        },
+        {
+          "name": "Metal",
+          "volume": 21
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:11.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 36
+        },
+        {
+          "name": "Evsel",
+          "volume": 58
+        },
+        {
+          "name": "Cam",
+          "volume": 38
+        },
+        {
+          "name": "Kağıt",
+          "volume": 21
+        },
+        {
+          "name": "Metal",
+          "volume": 35
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:11.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 42
+        },
+        {
+          "name": "Evsel",
+          "volume": 13
+        },
+        {
+          "name": "Cam",
+          "volume": 88
+        },
+        {
+          "name": "Kağıt",
+          "volume": 38
+        },
+        {
+          "name": "Metal",
+          "volume": 73
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:11.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 25
+        },
+        {
+          "name": "Evsel",
+          "volume": 41
+        },
+        {
+          "name": "Cam",
+          "volume": 20
+        },
+        {
+          "name": "Kağıt",
+          "volume": 100
+        },
+        {
+          "name": "Metal",
+          "volume": 41
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:11.834Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0462b825f0da31cb31"
+  },
+  "id": 13,
+  "lat": 40.805312,
+  "lng": 29.372001,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Emek Mahallesi, Darıca, Kocaeli, Marmara Bölgesi, 41420, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 62
+    },
+    {
+      "name": "Evsel",
+      "volume": 27
+    },
+    {
+      "name": "Cam",
+      "volume": 66
+    },
+    {
+      "name": "Kağıt",
+      "volume": 100
+    },
+    {
+      "name": "Metal",
+      "volume": 25
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:12.321Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 63
+        },
+        {
+          "name": "Evsel",
+          "volume": 24
+        },
+        {
+          "name": "Cam",
+          "volume": 59
+        },
+        {
+          "name": "Kağıt",
+          "volume": 58
+        },
+        {
+          "name": "Metal",
+          "volume": 87
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:12.321Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 92
+        },
+        {
+          "name": "Evsel",
+          "volume": 18
+        },
+        {
+          "name": "Cam",
+          "volume": 27
+        },
+        {
+          "name": "Kağıt",
+          "volume": 42
+        },
+        {
+          "name": "Metal",
+          "volume": 99
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:12.321Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 49
+        },
+        {
+          "name": "Evsel",
+          "volume": 10
+        },
+        {
+          "name": "Cam",
+          "volume": 62
+        },
+        {
+          "name": "Kağıt",
+          "volume": 65
+        },
+        {
+          "name": "Metal",
+          "volume": 48
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:12.321Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 77
+        },
+        {
+          "name": "Evsel",
+          "volume": 94
+        },
+        {
+          "name": "Cam",
+          "volume": 48
+        },
+        {
+          "name": "Kağıt",
+          "volume": 16
+        },
+        {
+          "name": "Metal",
+          "volume": 92
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:12.321Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 51
+        },
+        {
+          "name": "Evsel",
+          "volume": 80
+        },
+        {
+          "name": "Cam",
+          "volume": 30
+        },
+        {
+          "name": "Kağıt",
+          "volume": 20
+        },
+        {
+          "name": "Metal",
+          "volume": 73
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:12.321Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 19
+        },
+        {
+          "name": "Evsel",
+          "volume": 45
+        },
+        {
+          "name": "Cam",
+          "volume": 74
+        },
+        {
+          "name": "Kağıt",
+          "volume": 17
+        },
+        {
+          "name": "Metal",
+          "volume": 33
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:12.321Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 77
+        },
+        {
+          "name": "Evsel",
+          "volume": 21
+        },
+        {
+          "name": "Cam",
+          "volume": 12
+        },
+        {
+          "name": "Kağıt",
+          "volume": 38
+        },
+        {
+          "name": "Metal",
+          "volume": 41
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:12.321Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 55
+        },
+        {
+          "name": "Evsel",
+          "volume": 12
+        },
+        {
+          "name": "Cam",
+          "volume": 65
+        },
+        {
+          "name": "Kağıt",
+          "volume": 31
+        },
+        {
+          "name": "Metal",
+          "volume": 51
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:12.321Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 76
+        },
+        {
+          "name": "Evsel",
+          "volume": 73
+        },
+        {
+          "name": "Cam",
+          "volume": 25
+        },
+        {
+          "name": "Kağıt",
+          "volume": 12
+        },
+        {
+          "name": "Metal",
+          "volume": 83
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:12.321Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 68
+        },
+        {
+          "name": "Evsel",
+          "volume": 21
+        },
+        {
+          "name": "Cam",
+          "volume": 29
+        },
+        {
+          "name": "Kağıt",
+          "volume": 45
+        },
+        {
+          "name": "Metal",
+          "volume": 76
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:12.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0462b825f0da31cb32"
+  },
+  "id": 14,
+  "lat": 40.77785,
+  "lng": 29.395984,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Kazımkarabekir Mahallesi, Darıca, Kocaeli, Marmara Bölgesi, 41700, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 17
+    },
+    {
+      "name": "Evsel",
+      "volume": 83
+    },
+    {
+      "name": "Cam",
+      "volume": 97
+    },
+    {
+      "name": "Kağıt",
+      "volume": 49
+    },
+    {
+      "name": "Metal",
+      "volume": 82
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:12.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 84
+        },
+        {
+          "name": "Evsel",
+          "volume": 97
+        },
+        {
+          "name": "Cam",
+          "volume": 62
+        },
+        {
+          "name": "Kağıt",
+          "volume": 12
+        },
+        {
+          "name": "Metal",
+          "volume": 100
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:12.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 73
+        },
+        {
+          "name": "Evsel",
+          "volume": 45
+        },
+        {
+          "name": "Cam",
+          "volume": 53
+        },
+        {
+          "name": "Kağıt",
+          "volume": 22
+        },
+        {
+          "name": "Metal",
+          "volume": 55
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:12.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 38
+        },
+        {
+          "name": "Evsel",
+          "volume": 59
+        },
+        {
+          "name": "Cam",
+          "volume": 73
+        },
+        {
+          "name": "Kağıt",
+          "volume": 94
+        },
+        {
+          "name": "Metal",
+          "volume": 47
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:12.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 46
+        },
+        {
+          "name": "Evsel",
+          "volume": 71
+        },
+        {
+          "name": "Cam",
+          "volume": 31
+        },
+        {
+          "name": "Kağıt",
+          "volume": 70
+        },
+        {
+          "name": "Metal",
+          "volume": 46
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:12.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 88
+        },
+        {
+          "name": "Evsel",
+          "volume": 70
+        },
+        {
+          "name": "Cam",
+          "volume": 57
+        },
+        {
+          "name": "Kağıt",
+          "volume": 73
+        },
+        {
+          "name": "Metal",
+          "volume": 68
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:12.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 82
+        },
+        {
+          "name": "Evsel",
+          "volume": 74
+        },
+        {
+          "name": "Cam",
+          "volume": 42
+        },
+        {
+          "name": "Kağıt",
+          "volume": 49
+        },
+        {
+          "name": "Metal",
+          "volume": 39
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:12.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 44
+        },
+        {
+          "name": "Evsel",
+          "volume": 99
+        },
+        {
+          "name": "Cam",
+          "volume": 61
+        },
+        {
+          "name": "Kağıt",
+          "volume": 98
+        },
+        {
+          "name": "Metal",
+          "volume": 63
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:12.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 17
+        },
+        {
+          "name": "Evsel",
+          "volume": 57
+        },
+        {
+          "name": "Cam",
+          "volume": 35
+        },
+        {
+          "name": "Kağıt",
+          "volume": 70
+        },
+        {
+          "name": "Metal",
+          "volume": 52
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:12.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 24
+        },
+        {
+          "name": "Evsel",
+          "volume": 32
+        },
+        {
+          "name": "Cam",
+          "volume": 69
+        },
+        {
+          "name": "Kağıt",
+          "volume": 37
+        },
+        {
+          "name": "Metal",
+          "volume": 92
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:12.834Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 90
+        },
+        {
+          "name": "Evsel",
+          "volume": 52
+        },
+        {
+          "name": "Cam",
+          "volume": 94
+        },
+        {
+          "name": "Kağıt",
+          "volume": 66
+        },
+        {
+          "name": "Metal",
+          "volume": 66
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:12.834Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0562b825f0da31cb33"
+  },
+  "id": 15,
+  "lat": 40.802775,
+  "lng": 29.434009,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Güzeller Mahallesi, Gebze, Kocaeli, Marmara Bölgesi, 41400, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 48
+    },
+    {
+      "name": "Evsel",
+      "volume": 75
+    },
+    {
+      "name": "Cam",
+      "volume": 64
+    },
+    {
+      "name": "Kağıt",
+      "volume": 54
+    },
+    {
+      "name": "Metal",
+      "volume": 14
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:13.335Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 39
+        },
+        {
+          "name": "Evsel",
+          "volume": 97
+        },
+        {
+          "name": "Cam",
+          "volume": 79
+        },
+        {
+          "name": "Kağıt",
+          "volume": 86
+        },
+        {
+          "name": "Metal",
+          "volume": 27
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:13.335Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 25
+        },
+        {
+          "name": "Evsel",
+          "volume": 24
+        },
+        {
+          "name": "Cam",
+          "volume": 56
+        },
+        {
+          "name": "Kağıt",
+          "volume": 59
+        },
+        {
+          "name": "Metal",
+          "volume": 37
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:13.335Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 21
+        },
+        {
+          "name": "Evsel",
+          "volume": 77
+        },
+        {
+          "name": "Cam",
+          "volume": 86
+        },
+        {
+          "name": "Kağıt",
+          "volume": 14
+        },
+        {
+          "name": "Metal",
+          "volume": 72
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:13.335Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 85
+        },
+        {
+          "name": "Evsel",
+          "volume": 74
+        },
+        {
+          "name": "Cam",
+          "volume": 76
+        },
+        {
+          "name": "Kağıt",
+          "volume": 85
+        },
+        {
+          "name": "Metal",
+          "volume": 56
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:13.335Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 52
+        },
+        {
+          "name": "Evsel",
+          "volume": 41
+        },
+        {
+          "name": "Cam",
+          "volume": 42
+        },
+        {
+          "name": "Kağıt",
+          "volume": 82
+        },
+        {
+          "name": "Metal",
+          "volume": 17
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:13.335Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 49
+        },
+        {
+          "name": "Evsel",
+          "volume": 62
+        },
+        {
+          "name": "Cam",
+          "volume": 80
+        },
+        {
+          "name": "Kağıt",
+          "volume": 50
+        },
+        {
+          "name": "Metal",
+          "volume": 69
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:13.335Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 99
+        },
+        {
+          "name": "Evsel",
+          "volume": 88
+        },
+        {
+          "name": "Cam",
+          "volume": 56
+        },
+        {
+          "name": "Kağıt",
+          "volume": 64
+        },
+        {
+          "name": "Metal",
+          "volume": 37
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:13.335Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 86
+        },
+        {
+          "name": "Evsel",
+          "volume": 86
+        },
+        {
+          "name": "Cam",
+          "volume": 17
+        },
+        {
+          "name": "Kağıt",
+          "volume": 14
+        },
+        {
+          "name": "Metal",
+          "volume": 25
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:13.335Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 73
+        },
+        {
+          "name": "Evsel",
+          "volume": 10
+        },
+        {
+          "name": "Cam",
+          "volume": 20
+        },
+        {
+          "name": "Kağıt",
+          "volume": 25
+        },
+        {
+          "name": "Metal",
+          "volume": 34
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:13.335Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 39
+        },
+        {
+          "name": "Evsel",
+          "volume": 94
+        },
+        {
+          "name": "Cam",
+          "volume": 30
+        },
+        {
+          "name": "Kağıt",
+          "volume": 17
+        },
+        {
+          "name": "Metal",
+          "volume": 65
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:13.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0662b825f0da31cb35"
+  },
+  "id": 17,
+  "lat": 40.805739,
+  "lng": 29.391327,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Ulus, Ulus Mahallesi, Gebze, Kocaeli, Marmara Bölgesi, 00041, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 69
+    },
+    {
+      "name": "Evsel",
+      "volume": 76
+    },
+    {
+      "name": "Cam",
+      "volume": 79
+    },
+    {
+      "name": "Kağıt",
+      "volume": 81
+    },
+    {
+      "name": "Metal",
+      "volume": 29
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:14.323Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 35
+        },
+        {
+          "name": "Evsel",
+          "volume": 22
+        },
+        {
+          "name": "Cam",
+          "volume": 15
+        },
+        {
+          "name": "Kağıt",
+          "volume": 88
+        },
+        {
+          "name": "Metal",
+          "volume": 75
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:14.323Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 17
+        },
+        {
+          "name": "Evsel",
+          "volume": 83
+        },
+        {
+          "name": "Cam",
+          "volume": 91
+        },
+        {
+          "name": "Kağıt",
+          "volume": 33
+        },
+        {
+          "name": "Metal",
+          "volume": 60
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:14.323Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 73
+        },
+        {
+          "name": "Evsel",
+          "volume": 35
+        },
+        {
+          "name": "Cam",
+          "volume": 70
+        },
+        {
+          "name": "Kağıt",
+          "volume": 72
+        },
+        {
+          "name": "Metal",
+          "volume": 69
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:14.323Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 77
+        },
+        {
+          "name": "Evsel",
+          "volume": 70
+        },
+        {
+          "name": "Cam",
+          "volume": 29
+        },
+        {
+          "name": "Kağıt",
+          "volume": 34
+        },
+        {
+          "name": "Metal",
+          "volume": 28
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:14.323Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 32
+        },
+        {
+          "name": "Evsel",
+          "volume": 62
+        },
+        {
+          "name": "Cam",
+          "volume": 68
+        },
+        {
+          "name": "Kağıt",
+          "volume": 70
+        },
+        {
+          "name": "Metal",
+          "volume": 52
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:14.323Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 65
+        },
+        {
+          "name": "Evsel",
+          "volume": 58
+        },
+        {
+          "name": "Cam",
+          "volume": 51
+        },
+        {
+          "name": "Kağıt",
+          "volume": 64
+        },
+        {
+          "name": "Metal",
+          "volume": 41
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:14.323Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 33
+        },
+        {
+          "name": "Evsel",
+          "volume": 16
+        },
+        {
+          "name": "Cam",
+          "volume": 63
+        },
+        {
+          "name": "Kağıt",
+          "volume": 80
+        },
+        {
+          "name": "Metal",
+          "volume": 75
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:14.323Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 18
+        },
+        {
+          "name": "Evsel",
+          "volume": 87
+        },
+        {
+          "name": "Cam",
+          "volume": 49
+        },
+        {
+          "name": "Kağıt",
+          "volume": 40
+        },
+        {
+          "name": "Metal",
+          "volume": 89
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:14.323Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 50
+        },
+        {
+          "name": "Evsel",
+          "volume": 55
+        },
+        {
+          "name": "Cam",
+          "volume": 76
+        },
+        {
+          "name": "Kağıt",
+          "volume": 61
+        },
+        {
+          "name": "Metal",
+          "volume": 57
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:14.323Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 73
+        },
+        {
+          "name": "Evsel",
+          "volume": 35
+        },
+        {
+          "name": "Cam",
+          "volume": 24
+        },
+        {
+          "name": "Kağıt",
+          "volume": 73
+        },
+        {
+          "name": "Metal",
+          "volume": 31
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:14.323Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0662b825f0da31cb36"
+  },
+  "id": 18,
+  "lat": 40.784696,
+  "lng": 29.384133,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "Nenehatun Mahallesi, Darıca, Kocaeli, Marmara Bölgesi, 41700, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 21
+    },
+    {
+      "name": "Evsel",
+      "volume": 45
+    },
+    {
+      "name": "Cam",
+      "volume": 81
+    },
+    {
+      "name": "Kağıt",
+      "volume": 27
+    },
+    {
+      "name": "Metal",
+      "volume": 89
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:14.850Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 82
+        },
+        {
+          "name": "Evsel",
+          "volume": 45
+        },
+        {
+          "name": "Cam",
+          "volume": 91
+        },
+        {
+          "name": "Kağıt",
+          "volume": 38
+        },
+        {
+          "name": "Metal",
+          "volume": 27
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:14.850Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 37
+        },
+        {
+          "name": "Evsel",
+          "volume": 75
+        },
+        {
+          "name": "Cam",
+          "volume": 41
+        },
+        {
+          "name": "Kağıt",
+          "volume": 90
+        },
+        {
+          "name": "Metal",
+          "volume": 38
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:14.850Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 86
+        },
+        {
+          "name": "Evsel",
+          "volume": 88
+        },
+        {
+          "name": "Cam",
+          "volume": 21
+        },
+        {
+          "name": "Kağıt",
+          "volume": 86
+        },
+        {
+          "name": "Metal",
+          "volume": 59
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:14.850Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 45
+        },
+        {
+          "name": "Evsel",
+          "volume": 64
+        },
+        {
+          "name": "Cam",
+          "volume": 41
+        },
+        {
+          "name": "Kağıt",
+          "volume": 44
+        },
+        {
+          "name": "Metal",
+          "volume": 55
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:14.850Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 70
+        },
+        {
+          "name": "Evsel",
+          "volume": 95
+        },
+        {
+          "name": "Cam",
+          "volume": 12
+        },
+        {
+          "name": "Kağıt",
+          "volume": 74
+        },
+        {
+          "name": "Metal",
+          "volume": 16
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:14.850Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 47
+        },
+        {
+          "name": "Evsel",
+          "volume": 30
+        },
+        {
+          "name": "Cam",
+          "volume": 19
+        },
+        {
+          "name": "Kağıt",
+          "volume": 38
+        },
+        {
+          "name": "Metal",
+          "volume": 54
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:14.850Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 61
+        },
+        {
+          "name": "Evsel",
+          "volume": 20
+        },
+        {
+          "name": "Cam",
+          "volume": 95
+        },
+        {
+          "name": "Kağıt",
+          "volume": 25
+        },
+        {
+          "name": "Metal",
+          "volume": 44
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:14.850Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 31
+        },
+        {
+          "name": "Evsel",
+          "volume": 68
+        },
+        {
+          "name": "Cam",
+          "volume": 84
+        },
+        {
+          "name": "Kağıt",
+          "volume": 16
+        },
+        {
+          "name": "Metal",
+          "volume": 43
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:14.850Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 82
+        },
+        {
+          "name": "Evsel",
+          "volume": 64
+        },
+        {
+          "name": "Cam",
+          "volume": 68
+        },
+        {
+          "name": "Kağıt",
+          "volume": 37
+        },
+        {
+          "name": "Metal",
+          "volume": 29
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:14.850Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 71
+        },
+        {
+          "name": "Evsel",
+          "volume": 26
+        },
+        {
+          "name": "Cam",
+          "volume": 78
+        },
+        {
+          "name": "Kağıt",
+          "volume": 54
+        },
+        {
+          "name": "Metal",
+          "volume": 34
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:14.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a40d0762b825f0da31cb37"
+  },
+  "id": 19,
+  "lat": 40.815867,
+  "lng": 29.429268,
+  "maxdistance": 200,
+  "max_volume": 100,
+  "address": "1779. Sokak, Gaziler, Gaziler Mahallesi, Gebze, Kocaeli, Marmara Bölgesi, 41400, Türkiye",
+  "materials": [
+    {
+      "name": "Plastik",
+      "volume": 15
+    },
+    {
+      "name": "Evsel",
+      "volume": 57
+    },
+    {
+      "name": "Cam",
+      "volume": 38
+    },
+    {
+      "name": "Kağıt",
+      "volume": 65
+    },
+    {
+      "name": "Metal",
+      "volume": 21
+    }
+  ],
+  "oldMaterials": [
+    {
+      "time": {
+        "$date": "2023-12-14T19:34:15.320Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 80
+        },
+        {
+          "name": "Evsel",
+          "volume": 23
+        },
+        {
+          "name": "Cam",
+          "volume": 30
+        },
+        {
+          "name": "Kağıt",
+          "volume": 60
+        },
+        {
+          "name": "Metal",
+          "volume": 58
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-13T19:34:15.320Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 34
+        },
+        {
+          "name": "Evsel",
+          "volume": 77
+        },
+        {
+          "name": "Cam",
+          "volume": 57
+        },
+        {
+          "name": "Kağıt",
+          "volume": 70
+        },
+        {
+          "name": "Metal",
+          "volume": 44
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-12T19:34:15.320Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 77
+        },
+        {
+          "name": "Evsel",
+          "volume": 82
+        },
+        {
+          "name": "Cam",
+          "volume": 47
+        },
+        {
+          "name": "Kağıt",
+          "volume": 63
+        },
+        {
+          "name": "Metal",
+          "volume": 25
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-11T19:34:15.320Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 48
+        },
+        {
+          "name": "Evsel",
+          "volume": 47
+        },
+        {
+          "name": "Cam",
+          "volume": 100
+        },
+        {
+          "name": "Kağıt",
+          "volume": 69
+        },
+        {
+          "name": "Metal",
+          "volume": 88
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-10T19:34:15.320Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 30
+        },
+        {
+          "name": "Evsel",
+          "volume": 78
+        },
+        {
+          "name": "Cam",
+          "volume": 80
+        },
+        {
+          "name": "Kağıt",
+          "volume": 15
+        },
+        {
+          "name": "Metal",
+          "volume": 37
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-09T19:34:15.320Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 12
+        },
+        {
+          "name": "Evsel",
+          "volume": 24
+        },
+        {
+          "name": "Cam",
+          "volume": 46
+        },
+        {
+          "name": "Kağıt",
+          "volume": 35
+        },
+        {
+          "name": "Metal",
+          "volume": 62
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-08T19:34:15.320Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 32
+        },
+        {
+          "name": "Evsel",
+          "volume": 90
+        },
+        {
+          "name": "Cam",
+          "volume": 90
+        },
+        {
+          "name": "Kağıt",
+          "volume": 92
+        },
+        {
+          "name": "Metal",
+          "volume": 59
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-07T19:34:15.320Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 29
+        },
+        {
+          "name": "Evsel",
+          "volume": 84
+        },
+        {
+          "name": "Cam",
+          "volume": 93
+        },
+        {
+          "name": "Kağıt",
+          "volume": 82
+        },
+        {
+          "name": "Metal",
+          "volume": 82
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-06T19:34:15.320Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 64
+        },
+        {
+          "name": "Evsel",
+          "volume": 73
+        },
+        {
+          "name": "Cam",
+          "volume": 19
+        },
+        {
+          "name": "Kağıt",
+          "volume": 11
+        },
+        {
+          "name": "Metal",
+          "volume": 43
+        }
+      ]
+    },
+    {
+      "time": {
+        "$date": "2023-12-05T19:34:15.320Z"
+      },
+      "materials": [
+        {
+          "name": "Plastik",
+          "volume": 96
+        },
+        {
+          "name": "Evsel",
+          "volume": 63
+        },
+        {
+          "name": "Cam",
+          "volume": 39
+        },
+        {
+          "name": "Kağıt",
+          "volume": 64
+        },
+        {
+          "name": "Metal",
+          "volume": 26
+        }
+      ]
+    }
+  ],
+  "time": {
+    "$date": "2024-01-14T19:34:15.320Z"
+  }
+}]
